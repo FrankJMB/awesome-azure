@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westus
+  awesome-azure:username: webmaster
+  awesome-azure:password:
+    secure: AAABAJyWv/vILe3RGFbFdmX5Pv20Ulp/wBfAkCrnruephSHqAfQr085lZpbt
