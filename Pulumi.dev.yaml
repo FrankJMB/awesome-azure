@@ -1,6 +1,6 @@
 config:
   awesome-azure:password:
-    secure: AAABABshdoHuZwVCvryn+B9QmoTiH/aDtAetUwlRMauUoiEvNwURFDRtzwUg
+    secure: AAABAERzndFBUA0NuKGbVL1cl8CYJs7USZR9E//yLLdpVTMOAxgvl57tFweB
   awesome-azure:username: webmaster
   azure-native:location: westus
   project:username: webmaster
