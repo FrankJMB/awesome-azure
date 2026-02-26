@@ -2,5 +2,5 @@ config:
   awesome-azure:password:
     secure: AAABAERzndFBUA0NuKGbVL1cl8CYJs7USZR9E//yLLdpVTMOAxgvl57tFweB
   awesome-azure:username: webmaster
-  azure-native:location: westus
+  azure-native:location: westeurope
   project:username: webmaster
