@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westeurope
+  awesome-azure:username: webmaster
+  awesome-azure:password:
+    secure: AAABADKrBaoWIObWMgU07SLwILaNA9mr0YahsbuP82YYsdh3vSzMRBZ04mgp
